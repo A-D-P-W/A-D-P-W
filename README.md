@@ -19,3 +19,5 @@ QA and release lead, moving into AI quality and evaluation.
 I build these with AI coding agents (Claude Code). My part is the spec, the test design, the reviews and the release rules; the agents write most of the code. It's the same split I had at Yacht Club, where I specced the test tools and engineers built them.
 
 My rule: a green check alone proves nothing. Confirm what's actually running.
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/adamdpascual/)
