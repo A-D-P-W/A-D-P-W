@@ -4,14 +4,15 @@ QA and release lead, moving into AI quality and evaluation.
 
 ## Experience
 
-- **9 years as a senior QA manager**, owning release quality for games on PC, consoles, iOS and Android, from alpha through post-launch patches, including platform certification on up to 11 platforms.
+- **9 years as a senior QA manager**, owning release quality for games on PC, consoles, iOS and Android, from alpha through post-launch patches. Platform submission and certification with Nintendo, Sony and Microsoft, re-certified on up to 11 platforms, plus launches on Apple Arcade and Netflix Games.
 - **Localization testing:** led test teams of up to 30 testers across 15+ languages.
 
-## Interests
+## Interests and goals
 
 - **Testing AI systems.** An AI answer changes from run to run, so I measure how often a property holds, not whether one run passed. A steady average can hide answers that flip, so I track each case, not just the score.
-- **AI safety and evaluation.** Completed an AGI strategy course; I'm interested in how to catch an AI system getting worse before users do.
+- **AI safety and evaluation.** BlueDot Impact AGI Strategy (Intensive) certificate. I'm interested in how to catch an AI system getting worse before users do.
 - **Release discipline.** A green check alone proves nothing. Confirm what's actually running.
+- **Goal:** build and run AI evaluation for a live product with real users.
 
 ## Work here
 
@@ -23,6 +24,6 @@ QA and release lead, moving into AI quality and evaluation.
 
 ## How I work
 
-I build these with AI coding agents. My part is the spec, the test design, the reviews and the release rules; the agents write most of the code. It's a split I'm used to: I spec the tools, engineers build them.
+I build these with AI coding agents (Claude Code). My part is the spec, the test design, the reviews and the release rules; the agents write most of the code. It's a split I'm used to: I spec the tools, engineers build them.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/adamdpascual/)
